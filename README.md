@@ -2,7 +2,8 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
-# Build with tailwindCSS and HTML
+# Build with 
+tailwindCSS and HTML
 
 ## Welcome! 👋
 
